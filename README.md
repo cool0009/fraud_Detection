@@ -8,14 +8,6 @@ This project aims to develop a robust machine learning model to predict fraudule
 
 Develop a solution for the provided business case using the dataset. Follow standard model development procedures, focusing on statistical analysis and creativity/judgment.
 
-### Submission Requirements:
-- Updated Resume (maximum 2 pages)
-- Jupyter Notebook with your solution
-
-### Eligibility Criteria:
-- Only college/university graduates or final semester students are eligible.
-- Graduates must have a minimum aggregate of 60% passing grade.
-
 ## Business Context
 
 We need to predict fraudulent transactions using a dataset containing 6,362,620 rows and 10 columns. The goal is to use insights from the model to develop an actionable fraud prevention plan.
