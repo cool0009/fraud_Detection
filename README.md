@@ -21,8 +21,8 @@ Develop a solution for the provided business case using the dataset. Follow stan
 We need to predict fraudulent transactions using a dataset containing 6,362,620 rows and 10 columns. The goal is to use insights from the model to develop an actionable fraud prevention plan.
 
 ### Data Dictionary & Source
-- **Data Dictionary:** Detailed descriptions of the dataset columns can be found [here](#).
-- **Dataset:** The dataset can be downloaded [here](#).
+- **Data Dictionary:** Detailed descriptions of the dataset columns can be found [here](https://drive.google.com/uc?id=1VQ-HAm0oHbv0GmDKP2iqqFNc5aI91OLn&export=download).
+- **Dataset:** The dataset can be downloaded [here](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV).
 
 ## Candidate Expectations
 
